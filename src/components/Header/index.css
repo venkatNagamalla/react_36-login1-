@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+
+.headers-section {
+  display: flex;
+  width: 120px;
+  list-style: none;
+  justify-content: space-around;
+  margin-bottom: 10px;
+  color: blue;
+}
